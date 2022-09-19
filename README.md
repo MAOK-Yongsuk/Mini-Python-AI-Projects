@@ -1,2 +1,2 @@
 # Mini-Python-AI-Projects
-First time, I'm try to learn about ai ml
+First time, I tried learning about AI. ai ml
